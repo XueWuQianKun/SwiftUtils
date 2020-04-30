@@ -1,0 +1,22 @@
+{
+  "name": "Swift_Utils",
+  "version": "0.1.0",
+  "summary": "A short description of Swift_Utils.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/XueWuQianKun/Swift_Utils",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "XueWuQianKun": "zly@shuquxia.com"
+  },
+  "source": {
+    "git": "https://github.com/XueWuQianKun/Swift_Utils.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Swift_Utils/Classes/**/*"
+}

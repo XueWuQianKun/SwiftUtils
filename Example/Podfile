@@ -1,0 +1,11 @@
+use_frameworks!
+source 'https://github.com/CocoaPods/Specs.git'
+target 'Swift_Utils_Example' do
+  pod 'Swift_Utils', :path => '../'
+
+  target 'Swift_Utils_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end
